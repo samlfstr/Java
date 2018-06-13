@@ -1,0 +1,10 @@
+package com.pluralsight;
+
+public class Main {
+    public static void main(String[] args) {
+
+        WebSite mevsimliktat = WebsiteFactory.getWebSite(WebSiteType.BLOG);
+        System.out.println(mevsimliktat.getPages());
+
+    }
+}
