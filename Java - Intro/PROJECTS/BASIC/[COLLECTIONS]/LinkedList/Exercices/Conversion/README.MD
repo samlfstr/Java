@@ -1,6 +1,6 @@
 
 # Linked list to `array list`
-
+```
     public static void main(String[] args) {
 
 
@@ -17,8 +17,8 @@
 
     }
 
-
-
+```
+```
      public static void main(String[] args) {
 
         // Linked list to array list
@@ -41,3 +41,4 @@
 
 
     }
+```
