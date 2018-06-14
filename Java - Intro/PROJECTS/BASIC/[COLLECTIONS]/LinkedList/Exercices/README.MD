@@ -1,10 +1,6 @@
 
 # Joining two `linked list`
 
-import java.util.Collections;
-import java.util.LinkedList;
-
-
 
     public static void main(String[] args) {
 
