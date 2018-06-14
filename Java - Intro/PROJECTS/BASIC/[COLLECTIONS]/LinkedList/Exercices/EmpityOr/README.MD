@@ -1,5 +1,5 @@
 
-# Check if a linked list is empity
+# Check if a `linked list` is empity
 
 ```Java
  public static void main(String[] args) {
