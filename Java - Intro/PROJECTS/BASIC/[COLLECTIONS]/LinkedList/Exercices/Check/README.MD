@@ -1,6 +1,7 @@
 
 # Check a `particular` element
 
+```Java
     public static void main(String[] args) {
 
         // Check a particular element
@@ -16,3 +17,4 @@
         if(contain) System.out.println("Yes it does"); else System.out.println("No it doesn't");
         
      }
+```
