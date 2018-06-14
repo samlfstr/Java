@@ -4,7 +4,6 @@
 ```Java
     public static void main(String[] args) {
 
-
         // Joining two linked list
         
         LinkedList<String> `list_of_names` = new LinkedList<>();
@@ -17,9 +16,6 @@
         other_list.addAll(`list_of_names`);
 
         other_list.forEach(System.out::println);
-
-
-
 
     }
 ```
