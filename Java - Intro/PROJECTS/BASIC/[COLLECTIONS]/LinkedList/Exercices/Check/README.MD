@@ -18,4 +18,4 @@
         boolean contain = list_of_names.contains("Samuel");
         if(contain) System.out.println("Yes it does"); else System.out.println("No it doesn't");
         
-        }
+   }
