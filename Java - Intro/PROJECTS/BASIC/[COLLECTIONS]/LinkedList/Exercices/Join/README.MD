@@ -1,7 +1,7 @@
 
 # Joining two `linked list`
 
-
+```Java
     public static void main(String[] args) {
 
 
@@ -22,3 +22,4 @@
 
 
     }
+```
